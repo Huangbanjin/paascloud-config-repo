@@ -92,7 +92,7 @@ paascloud:
     rocketMq:
       namesrvAddr: 47.96.173.142:9876
     sms:
-      signName: 'your sms signName'
+      signName: 'sssssssssssssbbbbbbbbbbbbbbbbbbbbb'
       regionId: cn-beijing
       endpoint:
       endpointName: cn-beijing

@@ -40,7 +40,7 @@ security:
     resource:
       id: paascloud-resource-uac
       filter-order: 3
-      tokenInfoUri: http://dev-api.paascloud.net:7979/uac/oauth/token
+      tokenInfoUri:  http://paascloud-gateway:7979/uac/oauth/check_token
 
 paascloud:
   enableSqlLogInterceptor: false
